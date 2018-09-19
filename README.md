@@ -19,3 +19,9 @@
 ##         print("a ist nicht mehr wahr und b ist groesser 1\n");
 ## }
 ## a ist nicht mehr wahr und b ist groesser 1
+# ODER Verknüpfung
+## Muss nur eine von mehreren Bedingungen erfüllt sein, verwenden wir die ODER Verknüpfung mit ||.
+## int a=0, b=1;
+## if(a || b) {
+##         printf("a oder b ist wahr\n");
+## }
