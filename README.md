@@ -12,3 +12,10 @@
 ## if(!0) printf("aus falsch wird wahr, 0 -> 1\n");
 ## if(!a) printf("aus wahr wird falsch, 5 -> 0\n");
 ## aus falsch wird wahr, 0 -> 1
+# UND Verknüpfung
+## Mit dem logischen UND && prüfen wir ob mehrere Bedingungen erfüllt sind.
+## int a=0, b=3;
+## if(!a && b > 1) {
+##         print("a ist nicht mehr wahr und b ist groesser 1\n");
+## }
+## a ist nicht mehr wahr und b ist groesser 1
