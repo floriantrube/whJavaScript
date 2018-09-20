@@ -29,3 +29,5 @@
 ## Arithmetische Operatoren verwenden numerische Werte (Literale oder Variablen) als Operanden und geben einen einzelnen numerischen Rückgabewert zurück. Die arithmetischen Standardoperatoren sind Addition (+), Substraktion (-), Multiplikation (*) und Division (/).
 # Vergleichsoperatoren
 ## Ein Vergleichsoperator (auch relationaler Operator) ist ein zweistelliger logischer Operator, also ein Operator, der auf zwei Argumente angewendet wird und einen Wahrheitswert liefert. In Programmiersprachen werden Vergleichsoperatorenmeist in Schleifen und Bedingungen verwendet. 
+# Schleifen
+## Eine Schleife (auch "Wiederholung" oder englisch loop) ist eine Kontrollstruktur in Programmiersprachen. Sie wiederholt einen Anweisungs-Block - den sogenannten Schleifenrumpf oder Schleifenkörper -, solange die Schleifenbedingung als Laufbedingung gültig bleibt bzw. als Abbruchbedingung nicht eintritt.
