@@ -25,3 +25,5 @@
 ## if(a || b) {
 ##         printf("a oder b ist wahr\n");
 ## }
+# Arithmetische Operatoren
+## Arithmetische Operatoren verwenden numerische Werte (Literale oder Variablen) als Operanden und geben einen einzelnen numerischen Rückgabewert zurück. Die arithmetischen Standardoperatoren sind Addition (+), Substraktion (-), Multiplikation (*) und Division (/).
