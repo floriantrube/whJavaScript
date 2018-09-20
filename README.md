@@ -31,3 +31,5 @@
 ## Ein Vergleichsoperator (auch relationaler Operator) ist ein zweistelliger logischer Operator, also ein Operator, der auf zwei Argumente angewendet wird und einen Wahrheitswert liefert. In Programmiersprachen werden Vergleichsoperatorenmeist in Schleifen und Bedingungen verwendet. 
 # Schleifen
 ## Eine Schleife (auch "Wiederholung" oder englisch loop) ist eine Kontrollstruktur in Programmiersprachen. Sie wiederholt einen Anweisungs-Block - den sogenannten Schleifenrumpf oder Schleifenkörper -, solange die Schleifenbedingung als Laufbedingung gültig bleibt bzw. als Abbruchbedingung nicht eintritt.
+# Verzweigungen 
+## Bedingte Anweisung und Verzweigung. Eine Bedingte Answeisung ist in der Programmierung ein Programmabschnitt, der nur unter einer bestimmten Bedingung ausgeführt wird. Eine Verzweigung legt fest, welcher von zwei (oder mehr) Programmabschnitten, abhängig von einer (oder mehreren) Bedingungen, ausgeführt wird.
