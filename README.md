@@ -16,9 +16,11 @@
 ## Mit logischen Operatoren kann man mehrere Bedingungen prüfen, in dem man diese mit logischen Operatoren veknüpft. Z.B. ob Bedingung X und Bedingung Y wahr sind.
 # *Negation*
 ## Mit der Negation wird ein Wert invertiert, also umgekehrt. D.h. aus wahr wird falsch und aus falsch wird wahr. Die Negation erreichen wir mit einem einfachen Anführungszeichen !. 
-## int a=5;
-## if(!0) printf("aus falsch wird wahr, 0 -> 1\n");
-## if(!a) printf("aus wahr wird falsch, 5 -> 0\n");
+``` js
+int a=5;
+if(!0) printf("aus falsch wird wahr, 0 -> 1\n");
+if(!a) printf("aus wahr wird falsch, 5 -> 0\n");
+```
 ## aus falsch wird wahr, 0 -> 1
 # *UND Verknüpfung*
 ## Mit dem logischen UND && prüfen wir ob mehrere Bedingungen erfüllt sind.
