@@ -38,5 +38,5 @@
 # *Ausgabe auf dem Bildschirm*
 ## Eine Ausgabe auf dem Bildschirm ist mit der Funktion "printf" möglich. Sie hat folgende Syntax: "int printf (const char *format, ...);". In den Klammern befinden sich die Parameter. Die Funktion kann aber noch mehr Parameter beinhalten, was durch die drei Punkte angezeigt wird. Die Werte, die der Funktion übergeben werden, bezeichnet man als Argumente. In unserer ersten Übung "Hallo Welt", haben wir der Funktion "printf" zum Beispiel das Argument "Hallo Welt" übergeben. 
 ### (c) Florian Trube 2018
-## + 1
-## + 2
++ 1
++ 2
