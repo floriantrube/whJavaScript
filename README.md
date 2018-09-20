@@ -33,10 +33,12 @@ if(!a && b > 1) {
 ## a ist nicht mehr wahr und b ist groesser 1
 # *ODER Verknüpfung*
 ## Muss nur eine von mehreren Bedingungen erfüllt sein, verwenden wir die ODER Verknüpfung mit ||.
-## int a=0, b=1;
-## if(a || b) {
-##         printf("a oder b ist wahr\n");
-## }
+``` js
+int a=0, b=1;
+if(a || b) {
+         printf("a oder b ist wahr\n");
+}
+```
 # *Arithmetische Operatoren*
 ## Arithmetische Operatoren verwenden numerische Werte (Literale oder Variablen) als Operanden und geben einen einzelnen numerischen Rückgabewert zurück. Die arithmetischen Standardoperatoren sind Addition (+), Substraktion (-), Multiplikation (*) und Division (/).
 # *Vergleichsoperatoren*
