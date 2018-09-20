@@ -27,3 +27,4 @@
 ## }
 # Arithmetische Operatoren
 ## Arithmetische Operatoren verwenden numerische Werte (Literale oder Variablen) als Operanden und geben einen einzelnen numerischen Rückgabewert zurück. Die arithmetischen Standardoperatoren sind Addition (+), Substraktion (-), Multiplikation (*) und Division (/).
+# hallot tobi
