@@ -33,3 +33,5 @@
 ## Eine Schleife (auch "Wiederholung" oder englisch loop) ist eine Kontrollstruktur in Programmiersprachen. Sie wiederholt einen Anweisungs-Block - den sogenannten Schleifenrumpf oder Schleifenkörper -, solange die Schleifenbedingung als Laufbedingung gültig bleibt bzw. als Abbruchbedingung nicht eintritt.
 # Verzweigungen 
 ## Bedingte Anweisung und Verzweigung. Eine Bedingte Answeisung ist in der Programmierung ein Programmabschnitt, der nur unter einer bestimmten Bedingung ausgeführt wird. Eine Verzweigung legt fest, welcher von zwei (oder mehr) Programmabschnitten, abhängig von einer (oder mehreren) Bedingungen, ausgeführt wird.
+# Kommentar
+## Kommentare sind Annotationen innerhalb von Programmiersprachen und Textschreibungssprachen. Vereinzelt werden Kommentare allerdings auch zur Speicherung maschinenlesbarer Metainformationen oder zur Ergänzung einer Sprache genutzt (siehe #Verwendung entgegen der Definition).
