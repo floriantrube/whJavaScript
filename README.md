@@ -1,14 +1,9 @@
 # whJavaScript
 # *Primitive Datentypen*
 ## Datentypen die so elementar sind, dass die Art und Weise sie zu repräsentieren in Java eingebaut ist.
-## Die 8 primitven Datentypen: 
-+ byte 
-+ short 
-+ int 
-+ long 
-+ float 
-+ double
-+ char 
+## Die 3 primitven Datentypen: 
++ string
++ number
 + boolean
 # *Variablen*
 ## Eine Variable ist ein _abstrakter Behälter für eine Größe_, welche im Verlauf eines Rechenprozesses auftritt.Im Normalfall wird eine Variable _im Quelltext durch einen Namen bezeichnet_ und hat eine _Adresse im Speicher_ einer Maschine.
