@@ -6,7 +6,7 @@
 + number
 + boolean
 # *Variablen*
-## Eine Variable ist ein _abstrakter Behälter für eine Größe_, welche im Verlauf eines Rechenprozesses auftritt.Im Normalfall wird eine Variable _im Quelltext durch einen Namen bezeichnet_ und hat eine _Adresse im Speicher_ einer Maschine.
+## Eine Variable ist ein _abstrakter Behälter für eine Größe_, welche im Verlauf eines Rechenprozesses auftritt. Im Normalfall wird eine Variable _im Quelltext durch einen Namen bezeichnet_ und hat eine _Adresse im Speicher_ einer Maschine.
 # *Logische Operatoren*
 ## Mit logischen Operatoren kann man mehrere Bedingungen prüfen, in dem man diese mit logischen Operatoren veknüpft. Z.B. ob Bedingung X und Bedingung Y wahr sind.
 # *Negation*
